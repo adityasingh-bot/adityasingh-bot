@@ -10,9 +10,9 @@
 
 - 📫 How to reach me **adityasinghmpp@gmail.com**
 
-- 📄 Know about my experiences [View Now](https://drive.google.com/file/d/1u2XKsOGaCehobVI1ZLQ-4PVeE24sIcrW/view?usp=sharing)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1u2XKsOGaCehobVI1ZLQ-4PVeE24sIcrW/view?usp=sharing" target="blank">View Now</a>
 
-- ⚡ Fun fact **We can build but not in One go**
+- ⚡ Fun fact: I once built a Chrome extension to remind myself to take breaks 😅
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
