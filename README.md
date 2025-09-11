@@ -2,17 +2,18 @@
 <h3>Turning Ideas into Scalable Apps | Java • Spring Boot • NodeJS • Microservices • ReactJs • NextJs</h3>
 <img align="right" width="50%" src="https://media.tenor.com/YaoiRO5sMbIAAAAC/stick-figure.gif">
 
-- 🔭 I’m currently working on **Smart-Grocery Mobile App**
+- 🔭 I’m currently working on **“meta-cart” that shows you the cheapest basket across all vendors out there.**
 
-- 🌱 I’m currently learning **ExpressJS**
+- 🌱 I’m currently learning **Reactive Programming and MCP AI Server**
 
-- 💬 Ask me about **JavaScript, Java and PHP**
+- 💬 Ask me about **Java, Spring Boot and JavaScript**
+  
+- ⚡ Fun fact: I once built a Chrome extension to remind myself to take breaks 😅
 
 - 📫 How to reach me **adityasinghmpp@gmail.com**
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1u2XKsOGaCehobVI1ZLQ-4PVeE24sIcrW/view?usp=sharing" target="blank">View Now</a>
 
-- ⚡ Fun fact: I once built a Chrome extension to remind myself to take breaks 😅
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
