@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Singh</h1>
-<h3>A passionate software developer from India, Currently Developing ERP Application as Full Stack Engineer with Angular v8 and Express JS (NodeJS) and also have hands-on experience with Java 8, Microservices, Spring Boot. I am always ready to adapt new technologies and push my limits.</h3>
+<h3>Turning Ideas into Scalable Apps | Java • Spring Boot • NodeJS • Microservices • ReactJs • NextJs</h3>
 <img align="right" width="50%" src="https://media.tenor.com/YaoiRO5sMbIAAAAC/stick-figure.gif">
 
 - 🔭 I’m currently working on **Smart-Grocery Mobile App**
