@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **adityasinghmpp@gmail.com**
 
-- 📄 Know about my experiences [Pathway to Resume](https://shorturl.at/DGPT3)
+- 📄 Know about my experiences [View Now](https://drive.google.com/file/d/1u2XKsOGaCehobVI1ZLQ-4PVeE24sIcrW/view?usp=sharing)
 
 - ⚡ Fun fact **We can build but not in One go**
 
