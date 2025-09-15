@@ -30,7 +30,7 @@
 <p align="left">
   ⚡ Railways Assest Management System : [https://github.com/adityasingh-bot/RailAsset-Management-System]<br/>
   ⚡ Yard Management System : [https://github.com/adityasingh-bot/Yard-Management-System]<br/>
-  ⚡ DP King (Image Download and Share Platform) : [https://github.com/adityasingh-bot/DP-King]<br/>
+  ⚡ Image Download and Share Platform : [https://github.com/adityasingh-bot/DP-King]<br/>
   ⚡ Chrome Extension (Color Picker) : [https://github.com/adityasingh-bot/ChromeExtension-ColorPicker]<br/>
   ⚡ Camera Application (ReactNative(Expo CLI) : [https://github.com/adityasingh-bot/ReactNative-CameraApplication]<br/>
   ⚡ Build TechSrijan Consultancy Services (Company Profile) : [https://www.techsrijan.com/]<br/>
